@@ -1,0 +1,10 @@
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\bin\Debug\Guess the Number.exe.config
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\bin\Debug\Guess the Number.exe
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\bin\Debug\Guess the Number.pdb
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csproj.AssemblyReference.cache
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\obj\Debug\Guess_the_Number.Form1.resources
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\obj\Debug\Guess_the_Number.Properties.Resources.resources
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csproj.GenerateResource.cache
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csproj.CoreCompileInputs.cache
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\obj\Debug\Guess the Number.exe
+E:\Ծրագրավորում\WinForms\Guess the Number\Guess the Number\obj\Debug\Guess the Number.pdb
