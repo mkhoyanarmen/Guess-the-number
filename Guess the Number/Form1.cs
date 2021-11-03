@@ -43,6 +43,7 @@ namespace Guess_the_Number
 		}
 		private void btnPlayerSubmit_Click(object sender, EventArgs e)
 		{
+			PCNumber = numberGenerator.Next(1, 101);
 			bool isPlayerNumberInteger = int.TryParse(txtPlayerNum.Text, out playerNumber);
 			if (!isPlayerNumberInteger)
 			{
