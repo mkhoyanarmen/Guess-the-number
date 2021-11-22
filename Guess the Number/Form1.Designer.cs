@@ -288,7 +288,6 @@ namespace Guess_the_Number
 			this.lblPCScore.Size = new System.Drawing.Size(32, 36);
 			this.lblPCScore.TabIndex = 2;
 			this.lblPCScore.Text = "0";
-			this.lblPCScore.Click += new System.EventHandler(this.label3_Click);
 			// 
 			// lblPlayerScore
 			// 

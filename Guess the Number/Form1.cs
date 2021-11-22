@@ -13,6 +13,7 @@ namespace Guess_the_Number
 {
 	public partial class Form1 : Form
 	{
+		
 		Random numberGenerator;
 		int generateNum;
 		int PCNumber;
@@ -25,11 +26,6 @@ namespace Guess_the_Number
 		public Form1()
 		{
 			InitializeComponent();
-		}
-
-		private void label3_Click(object sender, EventArgs e)
-		{
-
 		}
 		private void Form1_Load(object sender, EventArgs e)
 		{
